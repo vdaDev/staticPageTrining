@@ -33,9 +33,12 @@
 
   border: none;
 
-
+  transition: all 0.1s ease-in-out;
   border-radius: 25px;
   background: #e0e0e0;
   box-shadow: 21px 21px 42px #5e5e5e, -21px -21px 42px #ffffff;
 }
 
+.button-lab:active {
+  box-shadow: 10px 10px 42px #5e5e5e, -10px -10px 42px #ffffff;
+}
