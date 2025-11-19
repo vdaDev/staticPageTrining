@@ -149,7 +149,7 @@ img.fs {
   justify-content: center;
 
 
-  background-image: url("img/img2.jpg");
+  background-image: url("../img/img2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
